@@ -19,7 +19,7 @@ For anyone who wants to provide translations please submit them to https://crowd
 
 <div>
 
-[![Build](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml/badge.svg?branch=dev)](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml)
+[![Debug APK Builder](https://github.com/DevTeady/VancedManager/actions/workflows/debug.yml/badge.svg)](https://github.com/DevTeady/VancedManager/actions/workflows/debug.yml)
 
 </div>
 
